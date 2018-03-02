@@ -1,0 +1,13 @@
+.categoryitem {
+	border-style: solid;
+	margin-bottom: 5px;
+	width: 100px;
+	background-color: yellow;
+}
+
+.activecategoryitem {
+	border-style: solid;
+	margin-bottom: 5px;
+	width: 100px;
+	background-color: red;
+}
